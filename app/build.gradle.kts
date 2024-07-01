@@ -106,4 +106,5 @@ dependencies {
     implementation(projects.run.domain)
     implementation(projects.run.data)
     implementation(projects.run.location)
+    implementation(projects.run.network)
 }

@@ -31,5 +31,6 @@ android {
 
 dependencies {
     implementation(libs.org.mongodb.bson) // ge
+
     implementation(projects.core.domain)// nerate mongodb ids run offline first before syncing
 }
