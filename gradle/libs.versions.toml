@@ -41,11 +41,13 @@ annotation = "1.7.1"
 
 # Project versions
 projectApplicationId = "com.plcoding.runique"
-projectVersionName = "1.0"
-projectMinSdkVersion = "25"
 projectTargetSdkVersion = "34"
-projectCompileSdkVersion = "34"
+
 projectVersionCode = "1"
+projectVersionName = "1.0"
+
+projectCompileSdkVersion = "34"
+projectMinSdkVersion = "25"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
